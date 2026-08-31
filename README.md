@@ -1,7 +1,5 @@
 # Create README.md
 
-
-readme_content = """
 # Credit Card Fraud Detection System
 
 ##  Project Overview
