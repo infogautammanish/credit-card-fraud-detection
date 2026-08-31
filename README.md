@@ -4,11 +4,11 @@
 readme_content = """
 # Credit Card Fraud Detection System
 
-## 📋 Project Overview
+##  Project Overview
 
 An end-to-end credit card fraud detection and transaction intelligence system that combines machine learning, anomaly detection, risk analysis, and interactive dashboards to identify and prevent fraudulent transactions.
 
-## 🎯 Key Features
+## Key Features
 
 - **Data Analysis & EDA**: Comprehensive exploratory data analysis with visualizations
 - **Feature Engineering**: Time-based, amount-based, merchant, and location features
@@ -19,13 +19,13 @@ An end-to-end credit card fraud detection and transaction intelligence system th
 - **Interactive Dashboard**: Streamlit-based 4-page dashboard
 - **Model Monitoring**: Performance metrics and confusion matrix
 
-## 📊 Dataset Information
+##  Dataset Information
 
 - **Total Transactions**: 100,000+
 - **Features**: TransactionID, Date, Amount, MerchantID, Type, Location, IsFraud
 - **Fraud Rate**: ~2% (imbalanced dataset)
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Tool | Purpose |
 |------|---------|
